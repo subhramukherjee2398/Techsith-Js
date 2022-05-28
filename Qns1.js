@@ -10,4 +10,4 @@ console.log({}+[])
 
 // so,
 
-  console.log(String([]))   // empty string return // fixed // funal
+  console.log(String([]))   // empty string return 
